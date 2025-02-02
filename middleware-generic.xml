@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest>
+  <remote fetch="ssh://git@github.com/rdk-e" name="rdke" review="https://github.com/rdk-e" />
+
+
+  <project groups="rdk" name="meta-middleware-generic-support" path="meta-middleware-generic-support" remote="rdke" revision="deb73f904ec0185727ef62271f38da3e75bdc1b6">
+  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_MIDDLEWARE_DEV_GENERIC" />
+  </project>
+
+  <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdke" revision="15d5e3f950f8d536285102ed01f84027f90e74c2">
+  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_RDK" />
+  <annotation name="MANIFEST_EXPORT_PATH1" value="MANIFEST_PATH_BBLAYERS_TEMPLATE" />
+  </project>
+
+  <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdke" revision="c6bd6c094c10ea193f043509f5469744d52b63cd">
+  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
+  </project>
+
+  <project groups="rdk" name="meta-rdk-voice-sdk" path="meta-rdk-voice-sdk" remote="rdke" revision="refs/tags/1.6.1-alpha">
+  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_VOICE_SDK" />
+  </project>
+</manifest>
