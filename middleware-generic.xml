@@ -15,8 +15,5 @@
   <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdke" revision="c6bd6c094c10ea193f043509f5469744d52b63cd">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
   </project>
-
-  <project groups="rdk" name="meta-rdk-voice-sdk" path="meta-rdk-voice-sdk" remote="rdke" revision="refs/tags/1.6.1-alpha">
-  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_VOICE_SDK" />
-  </project>
+  
 </manifest>
