@@ -3,16 +3,16 @@
   <remote fetch="ssh://git@github.com/rdk-e" name="rdke" review="https://github.com/rdk-e" />
 
 
-  <project groups="rdk" name="meta-middleware-generic-support" path="meta-middleware-generic-support" remote="rdke" revision="deb73f904ec0185727ef62271f38da3e75bdc1b6">
+  <project groups="rdk" name="meta-middleware-generic-support" path="meta-middleware-generic-support" remote="rdke" revision="614a507f11d92720ae9af1840bc6de13c0938478">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_MIDDLEWARE_DEV_GENERIC" />
   </project>
 
-  <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdke" revision="15d5e3f950f8d536285102ed01f84027f90e74c2">
+  <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdke" revision="6c0e2f1aee5e774f729acec30b9bbc70994f57aa">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_RDK" />
   <annotation name="MANIFEST_EXPORT_PATH1" value="MANIFEST_PATH_BBLAYERS_TEMPLATE" />
   </project>
 
-  <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdke" revision="c6bd6c094c10ea193f043509f5469744d52b63cd">
+  <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdke" revision="39f3c46690819e380f9cf4a325f81b6a61fc4172">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
   </project>
   
