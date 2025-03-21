@@ -3,7 +3,7 @@
   <remote fetch="ssh://git@github.com/rdk-e" name="rdke" review="https://github.com/rdk-e" />
   <remote fetch="https://github.com/rdkcentral" name="rdkcentral" review="https://github.com/rdkcentral" />
 
-  <project groups="rdk" name="meta-middleware-generic-support" path="meta-middleware-generic-support" remote="rdke" revision="f87d8f555629eaaa4cd79aebc180044461815c50">
+  <project groups="rdk" name="meta-middleware-generic-support" path="meta-middleware-generic-support" remote="rdke" revision="844fc55b21eadaf20e0ee67089e053452fa695aa">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_MIDDLEWARE_DEV_GENERIC" />
   </project>
 
