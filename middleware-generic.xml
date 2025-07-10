@@ -15,4 +15,8 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
   </project>
 
+  <project groups="rdk" name="meta-rdk-iot" path="meta-rdk-iot" remote="rdkcentral" revision="main">
+  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_IOT" />
+  </project>
+
 </manifest>
