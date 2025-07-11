@@ -7,11 +7,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_MIDDLEWARE_DEV_GENERIC" />
   </project>
 
-<<<<<<< HEAD
   <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdkcentral" revision="feature/matterSDK">
-=======
-  <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdkcentral" revision="5a524707ee21a574e0dba096d4bc41992fade4dc">
->>>>>>> 865257b (Update manifest for meta-rdk)
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_RDK" />
   <annotation name="MANIFEST_EXPORT_PATH1" value="MANIFEST_PATH_BBLAYERS_TEMPLATE" />
   </project>
