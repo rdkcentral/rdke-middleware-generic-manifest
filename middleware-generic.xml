@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <manifest>
   <remote fetch="https://github.com/rdkcentral" name="rdkcentral" review="https://github.com/rdkcentral" />
+  <remote name="rdke_matter" fetch="https://github.com/TanujSharma369/" />
 
   <project groups="rdk" name="meta-middleware-generic-support" path="meta-middleware-generic-support" remote="rdkcentral" revision="fcb72c4e8b96e65c7a060dd8d8370e9b1622634d">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_MIDDLEWARE_DEV_GENERIC" />
@@ -15,7 +16,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
   </project>
 
-  <project groups="rdk" name="meta-rdke-iot" path="meta-rdk-iot" remote="rdkcentral" revision="feature/matterSDK_rdke">
+  <project groups="rdk" name="meta-rdke-iot" path="meta-rdke-iot" remote="rdke_matter" revision="feature/matterSDK_rdke">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_IOT" />
   </project>
 
