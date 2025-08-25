@@ -2,7 +2,7 @@
 <manifest>
   <remote fetch="https://github.com/rdkcentral" name="rdkcentral" review="https://github.com/rdkcentral" />
 
-  <project groups="rdk" name="meta-middleware-generic-support" path="meta-middleware-generic-support" remote="rdkcentral" revision="support/2.16.0">
+  <project groups="rdk" name="meta-middleware-generic-support" path="meta-middleware-generic-support" remote="rdkcentral" revision="d78d969460995c19b81d88e379fe2dbb0bf4c4cd">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_MIDDLEWARE_DEV_GENERIC" />
   </project>
 
