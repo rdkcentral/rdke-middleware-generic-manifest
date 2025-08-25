@@ -11,6 +11,10 @@
   <annotation name="MANIFEST_EXPORT_PATH1" value="MANIFEST_PATH_BBLAYERS_TEMPLATE" />
   </project>
 
+  <project groups="rdk" name="meta-rdk-iot" path="meta-rdk-iot" remote="rdkcentral" revision="develop">
+  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_IOT" />
+  </project>
+
   <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdkcentral" revision="bbb1f3292afb4c87ab08a1b5e0a339698e80b878">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
   </project>
