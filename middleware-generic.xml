@@ -2,11 +2,11 @@
 <manifest>
   <remote fetch="https://github.com/rdkcentral" name="rdkcentral" review="https://github.com/rdkcentral" />
 
-  <project groups="rdk" name="meta-middleware-generic-support" path="meta-middleware-generic-support" remote="rdkcentral" revision="3a91e6f9b5cee34eb5de94fada5ab3a62d6df102">
+  <project groups="rdk" name="meta-middleware-generic-support" path="meta-middleware-generic-support" remote="rdkcentral" revision="169e42e092791293951246a4a0f4cabf4b109381">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_MIDDLEWARE_DEV_GENERIC" />
   </project>
 
-  <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdkcentral" revision="f52d0ef6d0ac70f2fab5d27659bc8363e6baa8b6">
+  <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdkcentral" revision="ac533b78be69ab16cffa8d6c77bb73e932e2a9c9">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_RDK" />
   <annotation name="MANIFEST_EXPORT_PATH1" value="MANIFEST_PATH_BBLAYERS_TEMPLATE" />
   </project>
@@ -15,7 +15,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_IOT" />
   </project>
 
-  <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdkcentral" revision="bbb1f3292afb4c87ab08a1b5e0a339698e80b878">
+  <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdkcentral" revision="52cf1fe11ff8c3df185b60b6d048aa7339450cf4">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
   </project>
 
