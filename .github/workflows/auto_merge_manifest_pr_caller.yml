@@ -5,6 +5,7 @@ on:
     types: [labeled]
     branches:
       - develop
+      - 'support/*.*.*'
 
 jobs:
   call_auto_pr_workflow:
