@@ -15,4 +15,8 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
   </project>
 
+  <project groups="rdk" name="meta-clang" path="rdke/common/meta-clang" remote="rdkcentral" revision="kirkstone">
+  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_CLANG" />
+  </project>
+
 </manifest>
