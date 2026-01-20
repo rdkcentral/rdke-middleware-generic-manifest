@@ -8,13 +8,12 @@ on:
   pull_request:
     types: [closed]
     branches:
-      - feature/CMFSUPPORT-2426
       - develop
       - support/dunfell
       - 'support/*.*.*'
 
 jobs:
   call_auto_pr_workflow:
-    uses: rdkcentral/build_tools_workflows/.github/workflows/auto_pr_creation_rdke_manifest.yml@feature/CMFSUPPORT-2426
+    uses: rdkcentral/build_tools_workflows/.github/workflows/auto_pr_creation_rdke_manifest.yml@develop
     secrets:
       RDKCM_RDKE: ${{ secrets.RDKCM_RDKE }}
