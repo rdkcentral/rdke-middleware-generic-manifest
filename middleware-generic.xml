@@ -6,7 +6,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_MIDDLEWARE_DEV_GENERIC" />
   </project>
 
-  <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdkcentral" revision="6a645e19cb3435267cb0f8f3932f51e40003b1de">
+  <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdkcentral" revision="ad5a5dc691b8717bcfdb19d31af6b7c740efe6cf">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_RDK" />
   <annotation name="MANIFEST_EXPORT_PATH1" value="MANIFEST_PATH_BBLAYERS_TEMPLATE" />
   </project>
@@ -15,7 +15,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
   </project>
 
-  <project groups="rdk" name="meta-clang" path="rdke/common/meta-clang" remote="rdkcentral" revision="kirkstone">
+  <project groups="rdk" name="meta-clang" path="rdke/common/meta-clang" remote="rdkcentral" revision="refs/tags/rdk-4.1.0">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_CLANG" />
   </project>
 
