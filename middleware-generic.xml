@@ -1,5 +1,6 @@
 <manifest>
   <remote fetch="https://github.com/rdkcentral" name="rdkcentral" review="https://github.com/rdkcentral" />
+  <remote fetch="https://github.com/FireboltConnectApps" name="FireboltConnectApps" review="https://github.com/FireboltConnectApps" />
 
   <project groups="rdk" name="meta-middleware-generic-support" path="meta-middleware-generic-support" remote="rdkcentral" revision="refs/tags/1.1.2-community">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_MIDDLEWARE_DEV_GENERIC" />
@@ -14,4 +15,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
   </project>
 
+  <project groups="rdk" name="meta-fireboltconnect-automation" path="meta-fireboltconnect-automation" remote="FireboltConnectApps" revision="feature/zenithOnRdk7">
+  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_FIREBOLTCONNECT_AUTOMATION" />
+  </project>
 </manifest>
