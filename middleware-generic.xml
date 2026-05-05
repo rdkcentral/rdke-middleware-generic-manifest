@@ -8,7 +8,6 @@
 
   <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdkcentral" revision="bf6120bd934b84c76c52e779fec26fe5fe24d2ec">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_RDK" />
-  <annotation name="MANIFEST_EXPORT_PATH1" value="MANIFEST_PATH_BBLAYERS_TEMPLATE" />
   </project>
 
   <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdkcentral" revision="c50e2c18cc2cd44d941152580d74c1a1f0f7fcf5">
