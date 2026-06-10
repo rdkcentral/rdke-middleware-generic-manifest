@@ -6,7 +6,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_MIDDLEWARE_DEV_GENERIC" />
   </project>
 
-  <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdkcentral" revision="127c80ba28d74baa99301fc0cc81a018589c4f88">
+  <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdkcentral" revision="4ba7c0b0721b87837bf32eeae9f7b80b7f28fdf5">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_RDK" />
   <annotation name="MANIFEST_EXPORT_PATH1" value="MANIFEST_PATH_BBLAYERS_TEMPLATE" />
   </project>
