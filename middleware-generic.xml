@@ -6,11 +6,11 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_MIDDLEWARE_DEV_GENERIC" />
   </project>
 
-  <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdkcentral" revision="9284c3c91eb309218ca7c268c75bfd619f916b01">
+  <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdkcentral" revision="0a089e01484971db6fd0c0c2c27386c6fd089664">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_RDK" />
   </project>
 
-  <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdkcentral" revision="8396fe91a9389f7766db457971875caf50c48ea1">
+  <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdkcentral" revision="1bc60fb8c747ee7583e201d72d88df8e9865b10a">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
   </project>
 </manifest>
