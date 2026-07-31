@@ -2,6 +2,10 @@
 <manifest>
   <remote fetch="https://github.com/rdkcentral" name="rdkcentral" review="https://github.com/rdkcentral" />
 
+  <project groups="rdk" name="meta-rdk-oss-ext-middleware" path="meta-rdk-oss-ext-middleware" remote="rdkcentral" revision="79a7c3b9bc17f1952355b497071b97702a7d0cac">
+  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_OSS_EXT_MIDDLEWARE" />
+  </project>
+
   <project groups="rdk" name="meta-middleware-generic-support" path="meta-middleware-generic-support" remote="rdkcentral" revision="9a308baa0b8a642aa27f4e3050c701bc93d731a3">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_MIDDLEWARE_DEV_GENERIC" />
   </project>
