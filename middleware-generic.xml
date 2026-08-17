@@ -14,6 +14,4 @@
   <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdkcentral" revision="0801fbda554c7dca67aeeb875febbd5447a8730c">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
   </project>
-
-  </project>
 </manifest>
