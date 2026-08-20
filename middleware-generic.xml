@@ -14,4 +14,8 @@
   <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdkcentral" revision="0801fbda554c7dca67aeeb875febbd5447a8730c">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
   </project>
+
+  <project groups="layers" name="meta-rdk-bluetooth" path="meta-rdk-bluetooth" remote="rdkcentral" revision="refs/tags/1.1.0">
+  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_RDK_BLUETOOTH"/>
+  </project>
 </manifest>
