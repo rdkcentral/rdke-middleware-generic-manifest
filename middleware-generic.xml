@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <manifest>
   <remote fetch="https://github.com/rdkcentral" name="rdkcentral" review="https://github.com/rdkcentral" />
+  <remote fetch="https://github.com/Metrological" name="metrological" review="https://github.com/Metrological" />
 
   <project groups="rdk" name="meta-middleware-generic-support" path="meta-middleware-generic-support" remote="rdkcentral" revision="5bbfbee7810ab1f2c1867751f9de2082dbb9c6a9">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_MIDDLEWARE_DEV_GENERIC" />
@@ -13,5 +14,8 @@
 
   <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdkcentral" revision="abe07e0cdb7e48536fca70127a7484fdbb976d73">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
+  </project>
+  <project groups="rdk" name="meta-rdke-thunder5-upgrade" path="meta-rdke-thunder5-upgrade" remote="metrological" revision="2339f223a527423435e18ffb099aeeeafd19704d">
+  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDKE_THUNDER5_UPGRADE" />
   </project>
 </manifest>
