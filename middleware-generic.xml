@@ -2,16 +2,24 @@
 <manifest>
   <remote fetch="https://github.com/rdkcentral" name="rdkcentral" review="https://github.com/rdkcentral" />
 
-  <project groups="rdk" name="meta-middleware-generic-support" path="meta-middleware-generic-support" remote="rdkcentral" revision="e33197c24d9a4e03df787b4ade7ce59bb08bbdde">
+  <project groups="rdk" name="meta-middleware-generic-support" path="meta-middleware-generic-support" remote="rdkcentral" revision="3270202a81ef1076006207e7384de0938c8aa098">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_MIDDLEWARE_DEV_GENERIC" />
   </project>
 
-  <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdkcentral" revision="59730fa54b1c18b339dd2cc9decf88e1e652416d">
+  <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdkcentral" revision="45e6a561ab0cd9263b6f170073cd1ae9d0628d7c">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_RDK" />
   <annotation name="MANIFEST_EXPORT_PATH1" value="MANIFEST_PATH_BBLAYERS_TEMPLATE" />
   </project>
 
-  <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdkcentral" revision="8dba0c2c2b4916c112407c6bd7c39f10395da09d">
+  <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdkcentral" revision="fac9c8ba57798fab96aa07863fe0acf6ab15832d">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
+  </project> 
+    
+  <project groups="rdk" name="meta-rdk-oss-ext-middleware" path="meta-rdk-oss-ext-middleware" remote="rdkcentral" revision="refs/tags/1.0.0">
+  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_OSS_EXT_MIDDLEWARE" />
+  </project>
+
+  <project groups="layers" name="meta-rdk-bluetooth" path="meta-rdk-bluetooth" remote="rdkcentral" revision="refs/tags/1.1.0">
+  <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_RDK_BLUETOOTH" />
   </project>
 </manifest>
