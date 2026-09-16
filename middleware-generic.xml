@@ -15,7 +15,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
   </project>
     
-  <project groups="rdk" name="meta-rdk-oss-ext-middleware" path="meta-rdk-oss-ext-middleware" remote="rdkcentral" revision="9e7c2ee6f9ecaf8b7ce63af8726eb864fbd52e9e">
+  <project groups="rdk" name="meta-rdk-oss-ext-middleware" path="meta-rdk-oss-ext-middleware" remote="rdkcentral" revision="bf2891c682d62b4a4fe5294eb7b4984fc74447c9">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_OSS_EXT_MIDDLEWARE" />
   </project>
 
