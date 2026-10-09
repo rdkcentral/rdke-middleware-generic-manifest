@@ -6,7 +6,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_MIDDLEWARE_DEV_GENERIC" />
   </project>
 
-  <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdkcentral" revision="38d9ed008beddc4f0b3c48618bb05c52b63da00d">
+  <project groups="rdk" name="meta-rdk" path="meta-rdk" remote="rdkcentral" revision="feature/RDKOSS1116">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_RDK" />
   <annotation name="MANIFEST_EXPORT_PATH1" value="MANIFEST_PATH_BBLAYERS_TEMPLATE" />
   </project>
@@ -22,4 +22,9 @@
   <project groups="layers" name="meta-rdk-bluetooth" path="meta-rdk-bluetooth" remote="rdkcentral" revision="refs/tags/1.1.0">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_RDK_BLUETOOTH" />
   </project>
+
+   <project groups="layers" name="meta-rdk-wireless-connectivity" path="rdke/common/meta-rdk-wireless-connectivity" remote="rdk" revision="027e00b5ebdc8a893a1d181f927b92cfa5ec9d8b">
+   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_RDK_WIRELESS_CONNECTIVITY"/>
+   </project>
+
 </manifest>
