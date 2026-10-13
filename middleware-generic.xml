@@ -11,7 +11,7 @@
   <annotation name="MANIFEST_EXPORT_PATH1" value="MANIFEST_PATH_BBLAYERS_TEMPLATE" />
   </project>
 
-  <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdkcentral" revision="9c77524da5d4a3d2d49588e9ea712d281f58b9d0">
+  <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdkcentral" revision="5c158749046178895a8c814f7dccdc59cff0e421">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
   </project>
 </manifest>
