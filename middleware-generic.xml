@@ -23,7 +23,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_RDK_BLUETOOTH" />
   </project>
 
-  <project groups="layers" name="meta-rdk-wireless-connectivity" path="meta-rdk-wireless-connectivity" remote="rdkcentral" revision="66dba4048d634df03e361e98052ade89fbbf1727">
+  <project groups="layers" name="meta-rdk-wireless-connectivity" path="meta-rdk-wireless-connectivity" remote="rdkcentral" revision="2e90a845656e3df7c08a2675cf90cd75a8e32388">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_WIRELESS_CONNECTIVITY" />
   </project>
 
