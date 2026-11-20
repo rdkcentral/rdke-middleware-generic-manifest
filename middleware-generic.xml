@@ -2,7 +2,7 @@
 <manifest>
   <remote fetch="https://github.com/rdkcentral" name="rdkcentral" review="https://github.com/rdkcentral" />
 
-  <project groups="rdk" name="meta-middleware-generic-support" path="meta-middleware-generic-support" remote="rdkcentral" revision="af7aeac6a2d5a20f564cd190df61da24c4b1f3a2">
+  <project groups="rdk" name="meta-middleware-generic-support" path="meta-middleware-generic-support" remote="rdkcentral" revision="46301078413a1c8210188c52afa43939b5b0a075">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_MIDDLEWARE_DEV_GENERIC" />
   </project>
 
@@ -11,11 +11,11 @@
   <annotation name="MANIFEST_EXPORT_PATH1" value="MANIFEST_PATH_BBLAYERS_TEMPLATE" />
   </project>
 
-  <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdkcentral" revision="d0d2276995f4fbf5d2e71c47b8a27e53629b0b52">
+  <project groups="rdk" name="meta-rdk-video" path="meta-rdk-video" remote="rdkcentral" revision="b855acce6070a59569613a663f78d18fc3104c93">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_VIDEO" />
   </project>
     
-  <project groups="rdk" name="meta-rdk-oss-ext-middleware" path="meta-rdk-oss-ext-middleware" remote="rdkcentral" revision="6ec673ccfd21bb80547cbeef19cba96d23b8a906">
+  <project groups="rdk" name="meta-rdk-oss-ext-middleware" path="meta-rdk-oss-ext-middleware" remote="rdkcentral" revision="7475e5490a14a0b90246ae91d93b6e85bd2ac4c0">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_OSS_EXT_MIDDLEWARE" />
   </project>
 
@@ -23,7 +23,7 @@
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_META_RDK_BLUETOOTH" />
   </project>
 
-  <project groups="layers" name="meta-rdk-wireless-connectivity" path="meta-rdk-wireless-connectivity" remote="rdkcentral" revision="28e60a054ddebbd40a8b79e7995911611836c1c3">
+  <project groups="layers" name="meta-rdk-wireless-connectivity" path="meta-rdk-wireless-connectivity" remote="rdkcentral" revision="f2d304ffdc9df723a969363dce8c5549db3f2f38">
   <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_WIRELESS_CONNECTIVITY" />
   </project>
 
